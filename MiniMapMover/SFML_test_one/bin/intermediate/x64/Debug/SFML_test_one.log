@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\bin\intermediate\x64\Debug\) contains files shared from another project (SFML_test_one.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Player.cpp
+E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\src\Player.cpp(30,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\src\Player.cpp(30,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Application.cpp
+E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\src\Application.cpp(137,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\src\Application.cpp(140,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\src\Application.cpp(143,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\src\Application.cpp(146,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SFML_test_one.vcxproj -> E:\Damo\Programming\SFML Projects\MiniMapMover\MiniMapMover\SFML_test_one\bin\x64\Debug\MiniMapMover.exe
